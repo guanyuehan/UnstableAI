@@ -11,8 +11,8 @@ import os
 
 load_dotenv()
 
-TEAM_NAME = os.getenv("TEAM_NAME")
-TEAM_TRACK = os.getenv("TEAM_TRACK")
+TEAM_NAME = os.getenv("UNSTABLE_AI")
+TEAM_TRACK = os.getenv("NOVICE")
 
 
 def main():
